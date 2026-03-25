@@ -56,9 +56,9 @@ Power BI dashboard analysing website traffic, sales performance, and marketing e
 
 
 ## Dashboard Preview  
-![Dashboard Screenshot](./dashboard.png)
+![Dashboard Screenshot](./Overview.png)
+![Dashboard Screenshot](./DeepDive.png)
 
-> *(Replace `dashboard.png` with your actual screenshot file name and upload it to your repo)*
 
 ---
 
